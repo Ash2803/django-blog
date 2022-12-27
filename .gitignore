@@ -114,7 +114,6 @@ venv.bak/
 # Spyder project settings
 .spyderproject
 .spyproject
-index.html
 .replit
 
 # Rope project settings
